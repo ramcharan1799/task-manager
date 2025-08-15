@@ -15,6 +15,24 @@
   "keywords": ["task", "manager", "learning"],
   "author": "Your Name",
   "license": "MIT"
+
   "test": "node test.js"
+    {
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
+
+
+
+
+
+
+
+
+
 }    
 
