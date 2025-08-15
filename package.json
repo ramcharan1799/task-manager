@@ -1,4 +1,3 @@
-
 {
   "name": "task-manager",
   "version": "1.0.0",
@@ -15,24 +14,5 @@
   "keywords": ["task", "manager", "learning"],
   "author": "Your Name",
   "license": "MIT"
-
-  "test": "node test.js"
-    {
-  "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": "18.x"
-  }
-}
-
-
-
-
-
-
-
-
-
 }    
 
